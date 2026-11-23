@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [Privatliv på YouSee (TDC), Norlys, Telenor og Hiper: beskyt din forbindelse mod logning og sporing](./privatliv-yousee-norlys-hiper-dns-beskyttelse.md) | [Read on yivpn.net](https://yivpn.net/da/guides/privatliv-yousee-norlys-hiper-dns-beskyttelse/) | `crossborder` | `2026-11-23` |
 | [Brug VPN i Danmark uden at blokere MitID, MobilePay, e-Boks og Borger.dk: guide til Smart Split](./mitid-mobilepay-eboks-smart-split-vpn.md) | [Read on yivpn.net](https://yivpn.net/da/guides/mitid-mobilepay-eboks-smart-split-vpn/) | `crossborder` | `2026-11-21` |
 
 - **Full Dansk Guides Hub**: https://yivpn.net/da/guides/

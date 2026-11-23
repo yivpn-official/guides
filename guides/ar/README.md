@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [كيفية تشغيل VPN في السعودية دون تعطيل أبشر ونفاذ وتطبيقات البنوك (STC و Mobily و Zain)](./saudi-absher-nafath-smart-split-vpn.md) | [Read on yivpn.net](https://yivpn.net/ar/guides/saudi-absher-nafath-smart-split-vpn/) | `crossborder` | `2026-11-23` |
 | [أفضل إعداد VPN في الإمارات: حماية واي فاي دبي مول والمطار مع استثناء UAE Pass والبنوك عبر Smart Split](./uae-dubai-wifi-uae-pass-smart-split.md) | [Read on yivpn.net](https://yivpn.net/ar/guides/uae-dubai-wifi-uae-pass-smart-split/) | `crossborder` | `2026-11-21` |
 
 - **Full العربية Guides Hub**: https://yivpn.net/ar/guides/

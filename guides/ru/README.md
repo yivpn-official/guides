@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [Голосовые каналы Discord и WebRTC без обрывов: зачем нужен режим Global TUN вместо обычного прокси](./discord-golosovoi-chat-global-tun-nastroika.md) | [Read on yivpn.net](https://yivpn.net/ru/guides/discord-golosovoi-chat-global-tun-nastroika/) | `crossborder` | `2026-11-23` |
 | [Почему тормозит видео в 4K и обрывается QUIC: как работает протокол Hysteria2 при потере пакетов](./pochemu-tormozit-4k-video-quic-hysteria2.md) | [Read on yivpn.net](https://yivpn.net/ru/guides/pochemu-tormozit-4k-video-quic-hysteria2/) | `crossborder` | `2026-11-21` |
 
 - **Full Русский Guides Hub**: https://yivpn.net/ru/guides/

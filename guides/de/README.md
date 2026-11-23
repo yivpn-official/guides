@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [IP-Schutz im Heimnetz & WG-WLAN in Deutschland: Rechtssichere Privatsphäre & DNS-Leak-Schutz](./ip-schutz-wg-wlan-dns-leak-deutschland.md) | [Read on yivpn.net](https://yivpn.net/de/guides/ip-schutz-wg-wlan-dns-leak-deutschland/) | `crossborder` | `2026-11-23` |
 | [Telekom & Vodafone Peering-Probleme am Abend lösen: Warum Hysteria2 bei Paketverlust schneller als WireGuard ist](./telekom-vodafone-peering-paketverlust-hysteria2.md) | [Read on yivpn.net](https://yivpn.net/de/guides/telekom-vodafone-peering-paketverlust-hysteria2/) | `crossborder` | `2026-11-21` |
 
 - **Full Deutsch Guides Hub**: https://yivpn.net/de/guides/

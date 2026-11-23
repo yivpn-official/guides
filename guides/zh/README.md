@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [外贸人必备：Gmail、WhatsApp、LinkedIn 全天在线与国内办公直连分流方案](./foreign-trade-gmail-whatsapp-linkedin.md) | [Read on yivpn.net](https://yivpn.net/guides/foreign-trade-gmail-whatsapp-linkedin/) | `crossborder` | `2026-11-23` |
 | [Claude 为什么总封号？7 个常见原因与网络环境自查清单](./claude-account-ban-checklist.md) | [Read on yivpn.net](https://yivpn.net/guides/claude-account-ban-checklist/) | `ai` | `2026-11-21` |
 | [Cursor、Claude Code 与 Codex 终端分流及 MCP 代理配置完整指南](./ai-coding-tools-proxy.md) | [Read on yivpn.net](https://yivpn.net/guides/ai-coding-tools-proxy/) | `dev` | `2026-11-15` |
 | [Global TUN 虚拟网卡 vs 系统代理：一文搞懂两种代理模式的本质区别](./tun-vs-system-proxy.md) | [Read on yivpn.net](https://yivpn.net/vs/tun-vs-system-proxy/) | `comparison` | `2026-11-15` |

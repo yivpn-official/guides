@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [Como usar VPN no Brasil sem bloquear Pix, Gov.br e apps de bancos (Nubank, Itaú, Bradesco) via Smart Split](./vpn-sem-bloquear-pix-govbr-bancos-smart-split.md) | [Read on yivpn.net](https://yivpn.net/pt/guides/vpn-sem-bloquear-pix-govbr-bancos-smart-split/) | `crossborder` | `2026-11-23` |
 | [VPN grátis para PC e Android sem cadastro: 90 minutos por dia sem cartão de crédito (Guia 2026)](./free-pc-vpn-no-signup.md) | [Read on yivpn.net](https://yivpn.net/pt/guides/free-pc-vpn-no-signup/) | `comparison` | `2026-11-21` |
 
 - **Full Português Guides Hub**: https://yivpn.net/pt/guides/

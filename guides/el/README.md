@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [Χρήση VPN χωρίς μπλοκάρισμα σε Gov.gr, Taxisnet (ΑΑΔΕ), Αριάδνη Κύπρου και e-Banking μέσω Smart Split](./govgr-taxisnet-ebanking-smart-split-vpn.md) | [Read on yivpn.net](https://yivpn.net/el/guides/govgr-taxisnet-ebanking-smart-split-vpn/) | `crossborder` | `2026-11-23` |
 | [VPN στην Κύπρο (Λεμεσός, Λευκωσία): Χαμηλό Latency σε Cyta, Epic & Cablenet για Εξ Αποστάσεως Εργασία](./kypros-vpn-cyta-cablenet-remote-work.md) | [Read on yivpn.net](https://yivpn.net/el/guides/kypros-vpn-cyta-cablenet-remote-work/) | `crossborder` | `2026-11-21` |
 
 - **Full Ελληνικά Guides Hub**: https://yivpn.net/el/guides/

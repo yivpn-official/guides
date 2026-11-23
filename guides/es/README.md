@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [Bloqueos accidentales de IPs de Cloudflare en Movistar, O2 y Digi en España: diagnóstico y acceso seguro](./bloqueos-ip-cloudflare-movistar-digi-espana.md) | [Read on yivpn.net](https://yivpn.net/es/guides/bloqueos-ip-cloudflare-movistar-digi-espana/) | `crossborder` | `2026-11-23` |
 | [VPN gratis para PC y Android sin registro: 90 minutos diarios sin tarjeta de crédito (Guía 2026)](./free-pc-vpn-no-signup.md) | [Read on yivpn.net](https://yivpn.net/es/guides/free-pc-vpn-no-signup/) | `comparison` | `2026-11-21` |
 
 - **Full Español Guides Hub**: https://yivpn.net/es/guides/
