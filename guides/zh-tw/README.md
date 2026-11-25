@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [香港與台灣開發者必備：Cursor、Claude Code、Codex 終端機代理與本地 MCP 自動分流教學](./ai-coding-tools-proxy.md) | [Read on yivpn.net](https://yivpn.net/zh-tw/guides/ai-coding-tools-proxy/) | `dev` | `2026-11-25` |
 | [免費電腦 VPN 推薦：免註冊、免綁卡每日 90 分鐘 Windows / Mac 台灣與香港實測（2026）](./free-pc-vpn-no-signup.md) | [Read on yivpn.net](https://yivpn.net/zh-tw/guides/free-pc-vpn-no-signup/) | `comparison` | `2026-11-23` |
 | [香港點樣穩定用 Claude、ChatGPT、Gemini？2026 網路設定與智能分流指南](./hong-kong-chatgpt-claude-gemini-guide.md) | [Read on yivpn.net](https://yivpn.net/zh-tw/guides/hong-kong-chatgpt-claude-gemini-guide/) | `ai` | `2026-11-21` |
 

@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [نصب آفلاین VPN در ویندوز، مک و اندروید بدون نیاز به دانلود هسته خارجی: دریافت امن از GitHub Releases](./offline-installer-singbox-github-releases-sha256.md) | [Read on yivpn.net](https://yivpn.net/fa/guides/offline-installer-singbox-github-releases-sha256/) | `dev` | `2026-11-25` |
 | [تنظیم تفکیک هوشمند ترافیک (Smart Split): اتصال مستقیم به شاپرک، همراه بانک‌ها، اسنپ و سایت‌های .ir](./smart-split-shaparak-hamrah-bank-ir-direct.md) | [Read on yivpn.net](https://yivpn.net/fa/guides/smart-split-shaparak-hamrah-bank-ir-direct/) | `crossborder` | `2026-11-23` |
 | [مقایسه فنی Hysteria2، VLESS+REALITY و WireGuard روی اینترنت همراه و فیبر با Packet Loss بالا](./hysteria2-vs-wireguard-vs-reality.md) | [Read on yivpn.net](https://yivpn.net/fa/guides/hysteria2-vs-wireguard-vs-reality/) | `comparison` | `2026-11-21` |
 

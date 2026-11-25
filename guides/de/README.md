@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [Online-Banking (Sparkasse, ING, DKB) & Fritz!Box-Heimnetz trotz VPN direkt nutzen: Smart-Split-Anleitung](./online-banking-fritzbox-smart-split-vpn.md) | [Read on yivpn.net](https://yivpn.net/de/guides/online-banking-fritzbox-smart-split-vpn/) | `crossborder` | `2026-11-25` |
 | [IP-Schutz im Heimnetz & WG-WLAN in Deutschland: Rechtssichere Privatsphäre & DNS-Leak-Schutz](./ip-schutz-wg-wlan-dns-leak-deutschland.md) | [Read on yivpn.net](https://yivpn.net/de/guides/ip-schutz-wg-wlan-dns-leak-deutschland/) | `crossborder` | `2026-11-23` |
 | [Telekom & Vodafone Peering-Probleme am Abend lösen: Warum Hysteria2 bei Paketverlust schneller als WireGuard ist](./telekom-vodafone-peering-paketverlust-hysteria2.md) | [Read on yivpn.net](https://yivpn.net/de/guides/telekom-vodafone-peering-paketverlust-hysteria2/) | `crossborder` | `2026-11-21` |
 
