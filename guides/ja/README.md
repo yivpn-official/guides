@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [VPN接続中でもPayPay・マイナポータル・国内ネット銀行をそのまま使う「Smart Split」設定術](./paypay-mynaportal-banking-smart-split.md) | [Read on yivpn.net](https://yivpn.net/ja/guides/paypay-mynaportal-banking-smart-split/) | `crossborder` | `2026-11-27` |
 | [Claude Code・Cursor・Codexのターミナルプロキシ設定とローカルMCP自動ルーティング完全ガイド](./ai-coding-tools-proxy.md) | [Read on yivpn.net](https://yivpn.net/ja/guides/ai-coding-tools-proxy/) | `dev` | `2026-11-25` |
 | [登録不要・クレカ不要の無料PC/スマホVPN：毎日90分リセットされる仕組みと制限を徹底検証](./free-pc-vpn-no-signup.md) | [Read on yivpn.net](https://yivpn.net/ja/guides/free-pc-vpn-no-signup/) | `comparison` | `2026-11-23` |
 | [新幹線・カフェ・空港・ホテルのフリーWi-Fiを安全に使う方法（2026）](./shinkansen-cafe-free-wifi-security-guide.md) | [Read on yivpn.net](https://yivpn.net/ja/guides/shinkansen-cafe-free-wifi-security-guide/) | `crossborder` | `2026-11-21` |

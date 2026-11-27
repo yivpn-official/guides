@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [VPN em Portugal (MEO, NOS, Vodafone PT): como proteger a privacidade sem bloquear o MB WAY nem o Portal das Finanças](./vpn-portugal-mbway-meo-nos-smart-split.md) | [Read on yivpn.net](https://yivpn.net/pt/guides/vpn-portugal-mbway-meo-nos-smart-split/) | `crossborder` | `2026-11-27` |
 | [Internet lenta à noite na Claro, Vivo e Oi Fibra para sites internacionais? Como o Hysteria2 reduz perda de pacotes](./perda-de-pacotes-claro-vivo-fibra-hysteria2.md) | [Read on yivpn.net](https://yivpn.net/pt/guides/perda-de-pacotes-claro-vivo-fibra-hysteria2/) | `crossborder` | `2026-11-25` |
 | [Como usar VPN no Brasil sem bloquear Pix, Gov.br e apps de bancos (Nubank, Itaú, Bradesco) via Smart Split](./vpn-sem-bloquear-pix-govbr-bancos-smart-split.md) | [Read on yivpn.net](https://yivpn.net/pt/guides/vpn-sem-bloquear-pix-govbr-bancos-smart-split/) | `crossborder` | `2026-11-23` |
 | [VPN grátis para PC e Android sem cadastro: 90 minutos por dia sem cartão de crédito (Guia 2026)](./free-pc-vpn-no-signup.md) | [Read on yivpn.net](https://yivpn.net/pt/guides/free-pc-vpn-no-signup/) | `comparison` | `2026-11-21` |

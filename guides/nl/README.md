@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [Veilig werken op NS-trein Wi-Fi, Schiphol en in cafés: versleuteling met TLS 1.3 en QUIC uitgelegd](./veilig-openbaar-wifi-ns-trein-schiphol.md) | [Read on yivpn.net](https://yivpn.net/nl/guides/veilig-openbaar-wifi-ns-trein-schiphol/) | `crossborder` | `2026-11-27` |
 | [Gratis VPN voor Windows en Mac zonder registratie: dagelijks 90 minuten zonder e-mail of creditcard (2026)](./free-pc-vpn-no-signup.md) | [Read on yivpn.net](https://yivpn.net/nl/guides/free-pc-vpn-no-signup/) | `comparison` | `2026-11-25` |
 | [Avonddrukte en peering op Ziggo, KPN en Odido: waarom Hysteria2 stabieler blijft bij pakketverlies](./ziggo-kpn-odido-pakketverlies-hysteria2.md) | [Read on yivpn.net](https://yivpn.net/nl/guides/ziggo-kpn-odido-pakketverlies-hysteria2/) | `crossborder` | `2026-11-23` |
 | [iDEAL, DigiD en Nederlandse bank-apps (ING, Rabobank, ABN AMRO) direct gebruiken met VPN aan via Smart Split](./ideal-digid-bankieren-smart-split-vpn.md) | [Read on yivpn.net](https://yivpn.net/nl/guides/ideal-digid-bankieren-smart-split-vpn/) | `crossborder` | `2026-11-21` |

@@ -4,6 +4,7 @@
 
 | Guide (GitHub Playbook) | Canonical Full Article | Cluster | Updated |
 | --- | --- | :---: | :---: |
+| [Midjourney + Discord 国内稳定出图与高清原图秒加载完整指南（2026 设计师版）](./midjourney-discord-network-guide.md) | [Read on yivpn.net](https://yivpn.net/guides/midjourney-discord-network-guide/) | `ai` | `2026-11-27` |
 | [云服务器与 Docker 拉不动 GitHub、Docker Hub、HuggingFace？一条命令不断 SSH 接入代理](./linux-server-docker-github-proxy.md) | [Read on yivpn.net](https://yivpn.net/guides/linux-server-docker-github-proxy/) | `dev` | `2026-11-25` |
 | [外贸人必备：Gmail、WhatsApp、LinkedIn 全天在线与国内办公直连分流方案](./foreign-trade-gmail-whatsapp-linkedin.md) | [Read on yivpn.net](https://yivpn.net/guides/foreign-trade-gmail-whatsapp-linkedin/) | `crossborder` | `2026-11-23` |
 | [Claude 为什么总封号？7 个常见原因与网络环境自查清单](./claude-account-ban-checklist.md) | [Read on yivpn.net](https://yivpn.net/guides/claude-account-ban-checklist/) | `ai` | `2026-11-21` |
